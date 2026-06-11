@@ -81,53 +81,21 @@ Instead of just making things work, I aim to understand **how and why they work*
 
 # 🏗️ Featured Projects
 
-## 🔹 CodeMesh
-A fast tool to **share code instantly with a single link**.
-
-**Tech:** React • Node.js • MongoDB • Vercel • Render  
-🔗 https://www.codemesh.space/
-
+## 🔹 CodeMesh 🗃️
+---
+## 🔹 Chat Application 🔬 
+---
+## 🔹 Image Classifier 🖼️
+---
+## 🔹 Locofy 📍
+---
+## 🔹 Mediva/MedExplain 🩺
+---
+## 🔹 Vizor 🗄️
+---
+## 🔹 FeFe Script (Custom Programming Language) 0️⃣1️⃣
 ---
 
-## 🔹 Chat Application
-A modern chat system with real-time communication and developer-focused features.
-
-**Features:**
-- Real-time messaging  
-- Interactive UI  
-- Scalable backend  
-
-**Tech:** React • Node.js • MongoDB • Socket.io  
-🔗 https://xchat-ei43.onrender.com/
-
----
-
-## 🔹 Image Classifier
-A machine learning model for image classification using neural networks.
-
-**Tech:** Python • CNN • Transfer Learning • Matplotlib  
-🔗 https://x.com/ShikharCodex
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShikharBit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=ShikharBit&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharBit&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShikharBit&theme=react-dark)
-
----
 
 ## My Personal Philosophy
 
