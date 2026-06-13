@@ -79,7 +79,7 @@ Instead of just making things work, I aim to understand **how and why they work*
 
 ---
 
-# 🏗️ Featured Projects
+# 🏗️ Projects
 
 ## 🔹 CodeMesh 🗃️
 ---
